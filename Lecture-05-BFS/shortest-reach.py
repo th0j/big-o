@@ -4,11 +4,11 @@ MAX = 1005
 EDGE = 6
 visited = [False] * MAX
 distant = [-1] * MAX
-graph = [[] for i in range(MAX)]
+graph = [[] for _ in range(MAX)]
 
 def read_graph(m):
   # Init graph base on Adjacency List method: Adjacency Matrix + Edge List
-  for i in range(m):
+  for _ in range(m):
     node_x, node_y = map(int, input().split())
     graph[node_x].append(node_y)
     graph[node_y].append(node_x)
