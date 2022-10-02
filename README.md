@@ -12,3 +12,4 @@ Solution for Big-O Blue course
 ## Lecture 6: DFS
 
 - Bishu and his Girlfriend (from: [Hackerrank](https://assessment.hackerearth.com/challenges/college/nits-local-10/algorithm/84888e824aa04fc793c3beefca02b5a7/))
+- Prayatna (from: [Spoj](https://vn.spoj.com/problems/CAM5/))
