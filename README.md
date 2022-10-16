@@ -20,5 +20,8 @@ Solution for Big-O Blue course
 
 ## Lecture 8: Dijkstra
 
+## Lecture 9: Midterm
+- Printer Queue (from Uva)
+
 ## Lecture 10: Bellman Ford
 - Wormholes (from Uva)
